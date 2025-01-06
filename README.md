@@ -1,4 +1,3 @@
-# horizon-market-report
 # Horizon Market Business Performance Analysis
 
 ## Overview  
