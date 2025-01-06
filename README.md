@@ -39,7 +39,7 @@ The project followed a structured Business Intelligence workflow:
    ```bash
    git clone https://github.com/yourusername/horizon-market-performance.git
    ```
-2. Open the Power BI file (`HorizonMarketReport.pbix`) in Power BI Desktop.  
+2. Open the Power BI file (`Horizon_Market_Report.pbix`) in Power BI Desktop.  
 3. Explore the interactive dashboard to analyze business performance.  
 
 ## Future Improvements  
