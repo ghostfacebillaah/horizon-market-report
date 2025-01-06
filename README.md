@@ -7,15 +7,14 @@ This Power BI project provides an insightful analysis of the performance of **Ho
 The project followed a structured Business Intelligence workflow:
 
 1. **Connecting and Shaping the Data**  
-   - Imported and cleaned datasets related to sales, inventory, and customer demographics.  
+   - Imported and cleaned pre-existing datasets related to sales, inventory, and customer demographics.  
    - Ensured consistency and integrity for effective analysis.
 
 2. **Building a Relational Model**  
    - Established relationships between tables (e.g., sales, products, regions, and customers).  
-   - Designed a star schema to optimize query performance.
 
 3. **Adding Calculated Fields**  
-   - Created measures and calculated columns for KPIs, including revenue, profit margins, and customer acquisition rates.  
+   - Created measures and calculated columns for KPIs.  
    - Implemented DAX expressions for advanced calculations.
 
 4. **Designing an Interactive Report**  
@@ -46,4 +45,4 @@ The project followed a structured Business Intelligence workflow:
 
 ---
 
-Feel free to reach out for questions or collaboration opportunities! 🚀
+Feel free to reach out for questions!
