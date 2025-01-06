@@ -20,6 +20,9 @@ The project followed a structured Business Intelligence workflow:
 4. **Designing an Interactive Report**  
    - Developed a visually appealing dashboard with dynamic slicers, charts, and tables.  
    - Included actionable insights on sales trends, regional performance, and customer segmentation.
+  
+   ![image](https://github.com/user-attachments/assets/52e94126-417b-48aa-bb62-cc4d7f9dd4c6)
+
 
 ## Features  
 - Interactive visuals for exploring business performance across time, regions, and product categories.  
